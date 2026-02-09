@@ -13,3 +13,6 @@ This project analyzes 10 years of clinical data from 130 US hospitals to predict
 * **Python** (Pandas, NumPy)
 * **Visualization:** Seaborn, Matplotlib
 * **Machine Learning:** Scikit-Learn (Random Forest Classifier)
+## Visual Insights
+![Correlation Heatmap](correlation_heatmap.png)
+![Feature Importance](feature_importance.png)
